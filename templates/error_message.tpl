@@ -1,0 +1,1 @@
+<div style="color: red; font-weight: bold; text-align: center; padding: 1.5em; border: red 1px solid;">{PAY_BY_SMS_POST_ERROR}</div>
